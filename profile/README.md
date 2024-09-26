@@ -9,13 +9,9 @@
 
 ## 🛠️ Languages and PR stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rorychatt&layout=compact&langs_count=100&hide=html)
-![GitHub Pull Request Stats](https://github-readme-stats.vercel.app/api?username=rorychatt&show_icons=true&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calle1212&layout=compact&langs_count=100&hide=html)
-![GitHub Pull Request Stats](https://github-readme-stats.vercel.app/api?username=calle1212&show_icons=true&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oshulten&layout=compact&langs_count=100&hide=html)
-![GitHub Pull Request Stats](https://github-readme-stats.vercel.app/api?username=Oshulten&show_icons=true&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timabloom&layout=compact&langs_count=100&hide=html)
-![GitHub Pull Request Stats](https://github-readme-stats.vercel.app/api?username=timabloom&show_icons=true&count_private=true&include_all_commits=true)
 
 ---
 
